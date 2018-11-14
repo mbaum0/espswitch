@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# HLK-PM01
+#
+DEF HLK-PM01 U 0 40 Y Y 1 L N
+F0 "U" -400 -300 50 H V L BNN
+F1 "HLK-PM01" 0 0 50 H I L BNN
+F2 "HLK-PM01" 0 0 50 H I L BNN
+F3 "Package Analog Devices" 0 0 50 H I L BNN
+F4 "Hi-link" 0 0 50 H I L BNN
+F5 "" 0 0 50 H I L BNN
+F6 "Unavailable" 0 0 50 H I L BNN
+F7 "hlk-pm01" 0 0 50 H I L BNN
+F8 "None" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 -200 -400 200 N
+P 2 0 0 10 -400 200 400 200 N
+P 2 0 0 10 400 200 400 -200 N
+P 2 0 0 10 400 -200 -400 -200 N
+T 0 0 0 70 0 0 0 HLK-PM01 Normal 0 C C
+X AC1 1 -600 100 200 R 40 40 0 0 W 
+X AC2 2 -600 -100 200 R 40 40 0 0 W 
+X DC+ 4 600 100 200 L 40 40 0 0 W 
+X DC- 3 600 -100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,11 @@
+ESP-12E
+LM1117 3.3v Regulator (800mA) (digi-key: LM1117MPX-3.3/NOPBTR-ND)
+HLK-PM01 220 to 5v step down
+G5LE-1A4 120/240VAC relay (5v, coil current 79.4mA, 63 ohms, normally open) (digi-key: Z3116-ND )
+BC846BLT1G NPN BJT (digi-key: BC846BLT1GOSCT-ND)
+1SS352 (reverse 80v, 100mA) (flyback) (digi-key: 1SS352H3FCT-ND)
+5MF 250-R Fuses (250v 250mA) (is a thermistor necessary?)
+2x 10uF capacitors (look into caps for the regulator)
+TL3305AF160QG  (SPST-NO SMDTactitle Switch) (digi-key: EG5350CT-ND)
+JS202011SCQN  (DPDT SMD Slide Switch) (digi-key: 401-2002-6-ND)
+691137710004 (terminal block 4x1) (digi-key: 732-10957-ND)

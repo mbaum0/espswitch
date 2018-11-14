@@ -1,0 +1,56 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+HLK-PM01
+$EndINDEX
+$MODULE HLK-PM01
+Po 0 0 0 15 00000000 00000000 ~~
+Li HLK-PM01
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 0 1 1 0 0.05 N V 21 "HLK-PM01"
+T1 0 0 1 0.9 0 0.05 N H 21 "VAL**"
+DS -17 0 -17 -10 0.127 21
+DS -17 -10 17 -10 0.127 21
+DS 17 -10 17 10 0.127 21
+DS 17 10 -17 10 0.127 21
+DS -17 10 -17 0 0.127 21
+T2 -11.600000 8.800000 1 1 0 .05 N V 21 "HLK-PM01"
+$PAD
+Sh "1" O 3.6 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -14.7 -2.5
+$EndPAD
+$PAD
+Sh "2" O 3.6 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -14.7 2.5
+$EndPAD
+$PAD
+Sh "3" O 3.6 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.7 -7.7
+$EndPAD
+$PAD
+Sh "4" O 3.6 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.7 7.7
+$EndPAD
+$EndMODULE HLK-PM01

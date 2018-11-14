@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G5LE-1A4
+D Sanyo SRD relay, Single Pole Miniature Power Relay, Closing Contact
+K Single Pole Relay SPST
+F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+$ENDCMP
+#
+$CMP SANYOU_SRD_Form_A
+D Sanyo SRD relay, Single Pole Miniature Power Relay, Closing Contact
+K Single Pole Relay SPST
+F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+$ENDCMP
+#
+#End Doc Library

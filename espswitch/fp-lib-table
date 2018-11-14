@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri C:/Users/Michael/Projects/ESPRelay/libraries/kicad-ESP8266/ESP8266.pretty)(options "")(descr ""))
+)
