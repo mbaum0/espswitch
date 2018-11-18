@@ -1,4 +1,4 @@
-update=11/12/2018 10:04:16 PM
+update=11/17/2018 11:12:17 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,11 +61,11 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-ESP8266/ESP8266
-LibName34=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-HLK-PM01/HLK-PM01
-LibName35=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-BC846ALT1G/BC846ALT1G
-LibName36=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-1SS352/1SS352
-LibName37=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-TL3305/TL3305
-LibName38=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-JS102011SCQN/JS102011SCQN
-LibName39=C:/Users/Michael/Projects/ESPRelay/libraries/kicad- 691137710004/691137710004
-LibName40=C:/Users/Michael/Projects/ESPRelay/libraries/kicad-G5LE-1A4-DC5/G5LE-1A4-DC5
+LibName33=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad- 691137710004/691137710004
+LibName34=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-1SS352/1SS352
+LibName35=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-BC846ALT1G/BC846ALT1G
+LibName36=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-ESP8266/ESP8266
+LibName37=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-G5LE-1A4-DC5/G5LE-1A4-DC5
+LibName38=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-HLK-PM01/HLK-PM01
+LibName39=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-JS102011SCQN/JS102011SCQN
+LibName40=C:/Users/Michael/Projects/ESPRelay/espswitch/libraries/kicad-TL3305/TL3305
